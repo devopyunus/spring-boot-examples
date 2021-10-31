@@ -11,8 +11,10 @@
         <module name="spring-boot-swagger-rest-api" />
         <module name="spring-boot-dockerization" />
         <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-pagination" />
         <module name="yd-springboot" />
         <module name="spring-boot-mongo-rest-api" />
+        <module name="spring-boot-websocket" />
         <module name="spring-boot-elasticsearch" />
       </profile>
     </annotationProcessing>
@@ -20,9 +22,11 @@
       <module name="spring-boot-dockerization" target="8" />
       <module name="spring-boot-elasticsearch" target="11" />
       <module name="spring-boot-mongo-rest-api" target="11" />
+      <module name="spring-boot-pagination" target="1.8" />
       <module name="spring-boot-postgre-rest-api" target="1.8" />
       <module name="spring-boot-rabbitmq" target="1.8" />
       <module name="spring-boot-swagger-rest-api" target="1.8" />
+      <module name="spring-boot-websocket" target="11" />
       <module name="yd-springboot" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -31,9 +35,11 @@
       <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-elasticsearch" options="-parameters" />
       <module name="spring-boot-mongo-rest-api" options="-parameters" />
+      <module name="spring-boot-pagination" options="-parameters" />
       <module name="spring-boot-postgre-rest-api" options="-parameters" />
       <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-boot-swagger-rest-api" options="-parameters" />
+      <module name="spring-boot-websocket" options="-parameters" />
       <module name="yd-springboot" options="-parameters" />
     </option>
   </component>

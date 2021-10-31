@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/spring-boot-swagger-rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-dockerization/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dockerization/spring-boot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-pagination/pom.xml" />
       </list>
     </option>
   </component>
