@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-postgre-rest-api" />
         <module name="spring-boot-swagger-rest-api" />
+        <module name="spring-boot-dockerization" />
         <module name="spring-boot-rabbitmq" />
         <module name="yd-springboot" />
         <module name="spring-boot-mongo-rest-api" />
@@ -16,6 +17,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-boot-dockerization" target="8" />
       <module name="spring-boot-elasticsearch" target="11" />
       <module name="spring-boot-mongo-rest-api" target="11" />
       <module name="spring-boot-postgre-rest-api" target="1.8" />
@@ -26,6 +28,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-dockerization" options="-parameters" />
       <module name="spring-boot-elasticsearch" options="-parameters" />
       <module name="spring-boot-mongo-rest-api" options="-parameters" />
       <module name="spring-boot-postgre-rest-api" options="-parameters" />

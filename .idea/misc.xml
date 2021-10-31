@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/spring-boot-postgre-rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-swagger-rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dockerization/pom.xml" />
       </list>
     </option>
   </component>
