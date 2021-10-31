@@ -8,5 +8,7 @@
     <file url="file://$PROJECT_DIR$/spring-boot-mongo-rest-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-postgre-rest-api/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-postgre-rest-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-swagger-rest-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-swagger-rest-api/src/main/resources" charset="UTF-8" />
   </component>
 </project>

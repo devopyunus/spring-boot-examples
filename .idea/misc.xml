@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-boot-mongo-rest-api/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-elasticsearch/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-postgre-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-swagger-rest-api/pom.xml" />
       </list>
     </option>
   </component>
