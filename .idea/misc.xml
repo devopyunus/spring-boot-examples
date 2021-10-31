@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-hello-world/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-mongo-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-elasticsearch/pom.xml" />
       </list>
     </option>
   </component>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mongo-rest-api/spring-boot-mongo-rest-api.iml" filepath="$PROJECT_DIR$/spring-boot-mongo-rest-api/spring-boot-mongo-rest-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-hello-world/yd-springboot.iml" filepath="$PROJECT_DIR$/spring-boot-hello-world/yd-springboot.iml" />

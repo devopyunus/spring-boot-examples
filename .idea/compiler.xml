@@ -2,21 +2,25 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="yd-springboot" />
         <module name="spring-boot-mongo-rest-api" />
+        <module name="spring-boot-elasticsearch" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring-boot-elasticsearch" target="11" />
       <module name="spring-boot-mongo-rest-api" target="11" />
       <module name="yd-springboot" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-elasticsearch" options="-parameters" />
       <module name="spring-boot-mongo-rest-api" options="-parameters" />
       <module name="yd-springboot" options="-parameters" />
     </option>
