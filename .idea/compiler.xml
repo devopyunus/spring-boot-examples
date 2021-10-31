@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-postgre-rest-api" />
         <module name="spring-boot-swagger-rest-api" />
+        <module name="spring-boot-rabbitmq" />
         <module name="yd-springboot" />
         <module name="spring-boot-mongo-rest-api" />
         <module name="spring-boot-elasticsearch" />
@@ -18,6 +19,7 @@
       <module name="spring-boot-elasticsearch" target="11" />
       <module name="spring-boot-mongo-rest-api" target="11" />
       <module name="spring-boot-postgre-rest-api" target="1.8" />
+      <module name="spring-boot-rabbitmq" target="1.8" />
       <module name="spring-boot-swagger-rest-api" target="1.8" />
       <module name="yd-springboot" target="11" />
     </bytecodeTargetLevel>
@@ -27,6 +29,7 @@
       <module name="spring-boot-elasticsearch" options="-parameters" />
       <module name="spring-boot-mongo-rest-api" options="-parameters" />
       <module name="spring-boot-postgre-rest-api" options="-parameters" />
+      <module name="spring-boot-rabbitmq" options="-parameters" />
       <module name="spring-boot-swagger-rest-api" options="-parameters" />
       <module name="yd-springboot" options="-parameters" />
     </option>
