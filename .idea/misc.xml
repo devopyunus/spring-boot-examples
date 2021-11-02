@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/spring-boot-dockerization/spring-boot-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-event/pom.xml" />
       </list>
     </option>
   </component>

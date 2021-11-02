@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-dockerization/spring-boot-dockerization.iml" filepath="$PROJECT_DIR$/spring-boot-dockerization/spring-boot-dockerization.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-event/spring-boot-event.iml" filepath="$PROJECT_DIR$/spring-boot-event/spring-boot-event.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-examples.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-mongo-rest-api/spring-boot-mongo-rest-api.iml" filepath="$PROJECT_DIR$/spring-boot-mongo-rest-api/spring-boot-mongo-rest-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-pagination/spring-boot-pagination.iml" filepath="$PROJECT_DIR$/spring-boot-pagination/spring-boot-pagination.iml" />
